@@ -3,7 +3,8 @@ package com.example.tiptime
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performTextInput
-import com.example.tiptime.ui.theme.TipTimeTheme
+import dev.lucaadev.tiptime.TipTimeLayout
+import dev.lucaadev.tiptime.ui.theme.TipTimeTheme
 import org.junit.Rule
 import org.junit.Test
 import java.text.NumberFormat

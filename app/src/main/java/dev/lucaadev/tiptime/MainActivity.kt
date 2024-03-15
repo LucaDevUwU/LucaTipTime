@@ -1,4 +1,4 @@
-package com.example.tiptime
+package dev.lucaadev.tiptime
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -39,7 +39,8 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.tiptime.ui.theme.TipTimeTheme
+import com.example.tiptime.R
+import dev.lucaadev.tiptime.ui.theme.TipTimeTheme
 import java.text.NumberFormat
 
 class MainActivity : ComponentActivity() {
